@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+__pycache__/
+*.log
+# the private repo template goes to its own PRIVATE repo, never this public one
+private-repo/
